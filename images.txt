@@ -1,1 +1,3 @@
 selenium/standalone-chrome
+selenium/hub:4.10.0
+selenium/node-chrome:4.10.0
