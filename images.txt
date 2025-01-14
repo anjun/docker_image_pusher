@@ -1,3 +1,4 @@
 selenium/node-chrome:dev
 selenium/hub:latest
 selenium/node-chromium:latest
+selenium/node-chrome:beta
