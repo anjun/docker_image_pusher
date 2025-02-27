@@ -1,4 +1,1 @@
-selenium/node-chrome:dev
-selenium/hub:latest
-selenium/node-chromium:latest
-selenium/node-chrome:beta
+redroid/redroid:13.0.0_64only-latest
